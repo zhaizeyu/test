@@ -1,0 +1,3 @@
+symbol,score,selected,failed,limit_up,ma_near,close_gt_open_ma,close_up,volume,board_volume,board_up,board_limit_up,upper_shadow,doji,turnover
+000002,6.5,False,"['limit_up', 'ma_near', 'board_limit_up', 'doji', 'turnover']",False,False,True,True,True,True,True,False,True,False,False
+000001,3.0,False,"['limit_up', 'ma_near', 'close_gt_open_ma', 'close_up', 'volume', 'board_limit_up', 'upper_shadow', 'doji', 'turnover']",False,False,False,False,False,True,True,False,False,False,False

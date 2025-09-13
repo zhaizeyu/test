@@ -29,3 +29,4 @@ boards:
     symbols:
       - "000001"
       - "000002"
+write_excel: false
