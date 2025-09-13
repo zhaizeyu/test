@@ -1,0 +1,31 @@
+thresholds:
+  ma_proximity: 0.01
+  vol_up: 1.2
+  vol_down: 0.8
+  board_vol_up: 1.0
+  upper_shadow: 0.5
+  doji_body: 0.1
+  turnover_low: 0.05
+  turnover_high: 0.15
+  limit_up_days: 30
+weights:
+  limit_up: 1
+  ma_near: 1
+  close_gt_open_ma: 1
+  close_up: 1
+  volume: 1
+  board_volume: 1.5
+  board_up: 1.5
+  board_limit_up: 1
+  upper_shadow: 0.5
+  doji: 0.5
+  turnover: 1
+score_threshold: 7
+universe:
+  - "000001"
+  - "000002"
+boards:
+  BANK:
+    symbols:
+      - "000001"
+      - "000002"

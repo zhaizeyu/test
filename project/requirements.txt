@@ -1,0 +1,8 @@
+akshare>=1.13.0
+pandas
+numpy
+matplotlib
+openpyxl
+tenacity
+tqdm
+pyyaml
